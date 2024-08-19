@@ -23,7 +23,7 @@
 
 .quina-texto-estimativa {
     font-size: 15px;
-    color: #c8a2c8; /* lilac */
+    color: #d152d1; /* lilac */
 }
 
 .quina-valor-estimativa {
@@ -54,14 +54,14 @@
 .quina-texto-acumulou {
     font-size: 28px;
     font-weight: bold;
-    color: #9370db; /* lilac */
+    color: #d152d1; /* lilac */
     margin-top: 15px;
     padding-left: 15px;
 }
 
 .quina-data-concurso {
     margin-top: 15px;
-    color: #c8a2c8; /* lilac */
+    color: #d152d1; /* lilac */
     padding-left: 15px;
     font-size: 15px;
 }
